@@ -1,1 +1,1 @@
-Implementações diversas usando java.
+Implementações diversas em java.
