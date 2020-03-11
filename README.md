@@ -1,1 +1,1 @@
-Exemplo de implementação de serviço usando ServiceLoader
+Implementações diversas usando java.
